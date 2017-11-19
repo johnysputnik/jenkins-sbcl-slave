@@ -1,5 +1,5 @@
-# jenkins-sbcl
-A Jenkins docker build with sbcl and quicklisp
+# jenkins-sbcl-slave
+A Jenkins slave docker build with sbcl and quicklisp
 
 ~~~~
 docker build -t jc/jenkins-sbcl-slave .
